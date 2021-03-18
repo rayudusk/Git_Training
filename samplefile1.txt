@@ -7,3 +7,4 @@ revert commit of sample file 1
 this is comparision lecture
 staging area
 
+this is stash lecture, change in file 1
