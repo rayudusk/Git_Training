@@ -1,1 +1,2 @@
 sample file in master branch
+this is stash lecture, change in master file
