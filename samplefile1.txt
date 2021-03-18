@@ -1,3 +1,4 @@
 this is sample file1
 
 revert commit of sample file 1
+this is comparision lecture
