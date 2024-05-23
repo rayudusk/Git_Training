@@ -2,3 +2,6 @@ this file we are creating to check push functionality
 
 
 now we are adding more data here from remote repo so that we can fetch and acess this newly added data in local repository.
+
+
+from local, we are adding data and this time we are pushing changes to the different branch and then raise a pr and merge the changes with master branch.
